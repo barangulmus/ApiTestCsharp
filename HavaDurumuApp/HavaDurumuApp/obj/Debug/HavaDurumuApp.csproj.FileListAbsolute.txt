@@ -1,0 +1,10 @@
+C:\Users\devba\source\repos\HavaDurumuApp\HavaDurumuApp\bin\Debug\HavaDurumuApp.exe.config
+C:\Users\devba\source\repos\HavaDurumuApp\HavaDurumuApp\bin\Debug\HavaDurumuApp.exe
+C:\Users\devba\source\repos\HavaDurumuApp\HavaDurumuApp\bin\Debug\HavaDurumuApp.pdb
+C:\Users\devba\source\repos\HavaDurumuApp\HavaDurumuApp\obj\Debug\HavaDurumuApp.csproj.AssemblyReference.cache
+C:\Users\devba\source\repos\HavaDurumuApp\HavaDurumuApp\obj\Debug\HavaDurumuApp.Form1.resources
+C:\Users\devba\source\repos\HavaDurumuApp\HavaDurumuApp\obj\Debug\HavaDurumuApp.Properties.Resources.resources
+C:\Users\devba\source\repos\HavaDurumuApp\HavaDurumuApp\obj\Debug\HavaDurumuApp.csproj.GenerateResource.cache
+C:\Users\devba\source\repos\HavaDurumuApp\HavaDurumuApp\obj\Debug\HavaDurumuApp.csproj.CoreCompileInputs.cache
+C:\Users\devba\source\repos\HavaDurumuApp\HavaDurumuApp\obj\Debug\HavaDurumuApp.exe
+C:\Users\devba\source\repos\HavaDurumuApp\HavaDurumuApp\obj\Debug\HavaDurumuApp.pdb
